@@ -15,4 +15,17 @@ The aim of this project is to analyze and predict customer churn for a bank base
 6. **Does tenure with the bank affect churn?**
 7. **Does having a credit card impact churn?**
 
-## I took the following steps to create the dashboard
+## key Insight
+
+1. France has the highest churn (50%), followed by Germany and Spain
+2. Younger customers aged between 20 and 40 churn more
+3. Customers with only 1 product have higher churn rates
+4. Customers with lower credit scores churn more
+5. Customers with less than 2 years of tenure churn the most
+6. A significant portion of churned customers don’t have a credit card
+   
+## Recommendations
+1. Offer region specific discounts or loyalty programs and Provide multilingual support for countries that dont use English as their base language
+2. create youth orientated packages and reward long term usage with rewards or exclusive discounts
+3. Suggest additional products and services based on user activity
+4. offer lower credit limits with a guided opportunity to rapidly raise credit scores for better limits
