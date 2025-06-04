@@ -1,7 +1,5 @@
 # BANK-CUSTOMER-CHURN-ANALYSIS
 
-![image](https://github.com/user-attachments/assets/46c9d728-e540-4d6e-af35-d73d67fc0c00)
-
 # PROJECT BACKGROUND
 A major retail bank with a national footprint has been experiencing high churn rates for their standard recently and the customer retention manager has aproached the data team with concerned regarding the issue of retaining customers in an increasingly competitive environment. The manager would like the data team to investigate the underlying factors responsible for the high increase in churned customers
 
