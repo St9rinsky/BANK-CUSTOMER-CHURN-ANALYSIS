@@ -1,16 +1,17 @@
 # BANK-CUSTOMER-CHURN-ANALYSIS
 
-# PROJECT BACKGROUND
+## PROJECT BACKGROUND
 A major retail bank with a national footprint has been experiencing high churn rates for their standard recently and the customer retention manager has aproached the data team with concerned regarding the issue of retaining customers in an increasingly competitive environment. The manager would like the data team to investigate the underlying factors responsible for the high increase in churned customers
 
-# EXECUTIVE SUMMARY
+## EXECUTIVE SUMMARY
 This Project was initiated in responce to concerns from the customer retention manager of a top bank with regards to high churn rates recently experinced. The stakeholder wanted to understand the cause behind the increased churn rates and identify ways in which the rates can be reduced.
 
 To address this, a comprehensive analysis was onducted using data provided by the back which included metrics such as the number of products the customers had at the time,Churn status,activity status and customer demographics such as age and gender.The object was to uncover patterns and root causes that caused customers to churn.
 
 Key findings from the analysis highlighted specific areas that had high contributions to the high churn rates, such as customers who recently joined the bank as per tenure and customers with low credit scores.The analysis also revealed that majority of the customers had only 1 product which had significantly higher churn rates compared to customers with more that 1 product, further analysis reaveled that middle aged customers also churned more. Based on these insights the data team prescribed offering customers milestone rewards based on improving credit scores upon completion and introduce loyalty programs that reward long term usage with rewards and exclusive discounts. The team also adviced on suggesting additonal products and services based on user ativity.
 
-![factCustomer 2](https://github.com/user-attachments/assets/b11c1aff-b397-4821-a25a-a1900ce4e62e)
+![semantic_model](https://github.com/user-attachments/assets/838424c3-c350-4e70-b852-9ca53766eeb5)
+
 
 ## key Insight
 
