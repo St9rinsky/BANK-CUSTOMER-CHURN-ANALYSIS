@@ -2,8 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/46c9d728-e540-4d6e-af35-d73d67fc0c00)
 
-# Project Aim
-The aim of this project is to analyze and predict customer churn for a bank based on various customer related factors. By using analytic tools such as T-SQL and Power Bi, the project aims to identify key factors that contribute to customer churn, which can help banks in improving customer retention strategies and ultimately increasing profitability.
+# Project Background
+A major retail bank with a national footprint has been experiencing high churn rates for their standard recently and the customer retention manager has aproached the data team with concerned regarding the issue of retaining customers in an increasingly competitive environment. The manager would like the data team to investigate the underlying factors responsible for the high increase in churned customers
 
 ## The dashboard answers the following questions and more 
 
