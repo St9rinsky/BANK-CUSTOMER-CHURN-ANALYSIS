@@ -2,19 +2,17 @@
 
 ![image](https://github.com/user-attachments/assets/46c9d728-e540-4d6e-af35-d73d67fc0c00)
 
-# Project Background
+# PROJECT BACKGROUND
 A major retail bank with a national footprint has been experiencing high churn rates for their standard recently and the customer retention manager has aproached the data team with concerned regarding the issue of retaining customers in an increasingly competitive environment. The manager would like the data team to investigate the underlying factors responsible for the high increase in churned customers
 
-## The dashboard answers the following questions and more 
+# EXECUTIVE SUMMARY
+This Project was initiated in responce to concerns from the customer retention manager of a top bank with regards to high churn rates recently experinced. The stakeholder wanted to understand the cause behind the increased churn rates and identify ways in which the rates can be reduced.
 
-1. **What is the overall churn rate?**
-2. **How does churn vary by country?**
-3. **How does the number of products affect churn?**
-4. **Does customer age impact churn?**
-5. **How does credit score influence churn?**
-6. **Does tenure with the bank affect churn?**
-7. **Does having a credit card impact churn?**
+To address this, a comprehensive analysis was onducted using data provided by the back which included metrics such as the number of products the customers had at the time,Churn status,activity status and customer demographics such as age and gender.The object was to uncover patterns and root causes that caused customers to churn.
 
+Key findings
+
+Key findings from the analysis highlighted specific operational challenges contributing to lower CSAT scores, such as prolonged call/resolution times and inconsistent service quality among agents. Based on these insights, targeted recommendations were developed ranging from agent training programs and process optimization to resource alloacations and re-directing.The outcomes of this project are intended to support data-driven decision-making and empower the stakeholder to implement effective changes that will elevate CSAT scores across all call centers.
 ## key Insight
 
 1. France has the highest churn (50%), followed by Germany and Spain
