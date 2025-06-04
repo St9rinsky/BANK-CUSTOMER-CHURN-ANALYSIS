@@ -11,16 +11,28 @@ To address this, a comprehensive analysis was onducted using data provided by th
 Key findings from the analysis highlighted specific areas that had high contributions to the high churn rates, such as customers who recently joined the bank as per tenure and customers with low credit scores.The analysis also revealed that majority of the customers had only 1 product which had significantly higher churn rates compared to customers with more that 1 product, further analysis reaveled that middle aged customers also churned more. Based on these insights the data team prescribed offering customers milestone rewards based on improving credit scores upon completion and introduce loyalty programs that reward long term usage with rewards and exclusive discounts. The team also adviced on suggesting additonal products and services based on user ativity.
 
 ![semantic_model](https://github.com/user-attachments/assets/838424c3-c350-4e70-b852-9ca53766eeb5)
+Star schema for data
 
+##  INSIGHTS DEEP DIVE
+## Insights based on customer demographics
 
-## key Insight
+![image](https://github.com/user-attachments/assets/1eec6fca-43a2-4eac-b792-6e83440601bc)
 
-1. France has the highest churn (50%), followed by Germany and Spain
-2. Younger customers aged between 20 and 40 churn more
-3. Customers with only 1 product have higher churn rates
-4. Customers with lower credit scores churn more
-5. Customers with less than 2 years of tenure churn the most
-6. A significant portion of churned customers don’t have a credit card
+* Customer churn rates gradually increase based on age and peak off at age 50 to 60 and the proceeds to decrease from there on.
+* Majority of the customers (50%) are based in France
+* InActive customers Significantly churn more with churn rates of 27% whilest Active Customers churn less at rates of 14%
+* Younger Customers ten to be active on their accounts compared to older generations, as there is a gradual increase in account activity as age increases.
+* Females tend to have a higher churn rate of 25% compares to males with a churn rate of 17%
+  
+## Insights based on Services provided
+
+![image](https://github.com/user-attachments/assets/cf84f03f-7ad8-490e-b713-0426b08d8aff)
+
+* Customers with none to lower credit score tend to churn more, however majority of the customers already have an an average credit score between 400 and 600.
+* Customers with only 1 product have a significantly high churn rate of 28% compared to those with 2 products with cchurn rate of 8%.
+* Customers with more than 2 products are less
+* 
+
    
 ## Recommendations
 1. Offer region specific discounts or loyalty programs and Provide multilingual support for countries that dont use English as their base language
