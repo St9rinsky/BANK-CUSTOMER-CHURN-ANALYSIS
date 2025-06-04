@@ -30,11 +30,11 @@ Star schema for data
 
 * Customers with none to lower credit score tend to churn more, however majority of the customers already have an an average credit score between 400 and 600.
 * Customers with only 1 product have a significantly high churn rate of 28% compared to those with 2 products with cchurn rate of 8%.
-* Customers with more than 2 products are less
-* 
+* Customers with more than 2 products are very few and tend to churn more.
+* The longer a customer is with the bank the less likely they are to churn, as there is an average decline in churn with increased tenure
 
    
-## Recommendations
+## RECOMMENDATIONS
 1. Offer region specific discounts or loyalty programs and Provide multilingual support for countries that dont use English as their base language
 2. create youth orientated packages and reward long term usage with rewards or exclusive discounts
 3. Suggest additional products and services based on user activity
