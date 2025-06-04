@@ -10,9 +10,10 @@ This Project was initiated in responce to concerns from the customer retention m
 
 To address this, a comprehensive analysis was onducted using data provided by the back which included metrics such as the number of products the customers had at the time,Churn status,activity status and customer demographics such as age and gender.The object was to uncover patterns and root causes that caused customers to churn.
 
-Key findings
+Key findings from the analysis highlighted specific areas that had high contributions to the high churn rates, such as customers who recently joined the bank as per tenure and customers with low credit scores.The analysis also revealed that majority of the customers had only 1 product which had significantly higher churn rates compared to customers with more that 1 product, further analysis reaveled that middle aged customers also churned more. Based on these insights the data team prescribed offering customers milestone rewards based on improving credit scores upon completion and introduce loyalty programs that reward long term usage with rewards and exclusive discounts. The team also adviced on suggesting additonal products and services based on user ativity.
 
-Key findings from the analysis highlighted specific operational challenges contributing to lower CSAT scores, such as prolonged call/resolution times and inconsistent service quality among agents. Based on these insights, targeted recommendations were developed ranging from agent training programs and process optimization to resource alloacations and re-directing.The outcomes of this project are intended to support data-driven decision-making and empower the stakeholder to implement effective changes that will elevate CSAT scores across all call centers.
+![factCustomer 2](https://github.com/user-attachments/assets/b11c1aff-b397-4821-a25a-a1900ce4e62e)
+
 ## key Insight
 
 1. France has the highest churn (50%), followed by Germany and Spain
