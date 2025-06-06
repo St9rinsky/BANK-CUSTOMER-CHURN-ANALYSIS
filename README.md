@@ -34,8 +34,4 @@ Star schema for data
 * The longer a customer is with the bank the less likely they are to churn, as there is an average decline in churn with increased tenure
 
    
-## RECOMMENDATIONS
-1. Offer region specific discounts or loyalty programs and Provide multilingual support for countries that dont use English as their base language
-2. create youth orientated packages and reward long term usage with rewards or exclusive discounts
-3. Suggest additional products and services based on user activity
-4. offer lower credit limits with a guided opportunity to rapidly raise credit scores for better limits
+## reco
