@@ -16,12 +16,13 @@ Star schema for data
 ##  INSIGHTS DEEP DIVE
 ## Insights based on customer demographics
 
-![image](https://github.com/user-attachments/assets/1eec6fca-43a2-4eac-b792-6e83440601bc)
+![image](https://github.com/user-attachments/assets/8834c88c-032e-42e0-9287-59b2a7364133)
 
-* Customer churn rates gradually increase based on age and peak off at age 50 to 60 and the proceeds to decrease from there on.
+
+* Customer churn rates exponentially increase based on age and peak off at age 50 and the proceeds to decrease from there on.
+* Majority of the customer base are young people from age 20 to 40.
 * Majority of the customers (50%) are based in France
 * InActive customers Significantly churn more with churn rates of 27% whilest Active Customers churn less at rates of 14%
-* Younger Customers ten to be active on their accounts compared to older generations, as there is a gradual increase in account activity as age increases.
 * Females tend to have a higher churn rate of 25% compares to males with a churn rate of 17%
   
 ## Insights based on Services provided
@@ -32,6 +33,12 @@ Star schema for data
 * Customers with only 1 product have a significantly high churn rate of 28% compared to those with 2 products with cchurn rate of 8%.
 * Customers with more than 2 products are very few and tend to churn more.
 * The longer a customer is with the bank the less likely they are to churn, as there is an average decline in churn with increased tenure
+* Majority of the customer base have credit cards.
 
+## Insights summarised
+
+* The bank has a low credit score requirement for getting a credit card as 70%  of the total customers have one including those with low to no credit, this attracts a lot of the youth who are starting out to improve their credit. The low credit score requirement however is a double edged sword as it can also attract individuals with bad credit history, and this could be a reason why majority of customers with only 1 product churn more as they fail to gather the requirement of above 600 credit score for a second product and as such leave.
+
+The data also shows that customers who managed to get a second product are happy and churn less, however those with 3 or more are very few and churn more which suggests the benefits do not scale per products
    
 ## reco
